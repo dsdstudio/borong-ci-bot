@@ -1,0 +1,26 @@
+{
+  "name": "borong-ci-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "t.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "webdriverio": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsdstudio/borong-ci-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsdstudio/borong-ci-bot/issues"
+  },
+  "homepage": "https://github.com/dsdstudio/borong-ci-bot#readme"
+}
